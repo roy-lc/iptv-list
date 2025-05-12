@@ -61,6 +61,22 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="soltvperu.com" tvg-logo="https://mindef.nec.pe/wp-content/uploads/2021/01/SolTV.png" group-title="Undefined",Sol TV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/chunks.m3u8
 
+#EXTINF:-1 tvg-id="telelima.pe" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="MUSICA",TELELIMA HD
+https://live-evg25.tv360.bitel.com.pe/bitel/telelima/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2 TV (Lima)
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PELICULAS",Planeta TV
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Ug9I7kpYGYaIGCobs6096bdTfBgT8jMBQ&s" group-title="PELICULAS",FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+
+#EXTINF:-1 tvg-id="moyobamba.com" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5Ug9I7kpYGYaIGCobs6096bdTfBgT8jMBQ&s" group-title="PELICULAS",FMH Movies
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/chunks.m3u8
+
 
 
 
