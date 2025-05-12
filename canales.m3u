@@ -99,6 +99,53 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
 #EXTINF:-1 tvg-id="BETHEL.pe" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="RELIGIOSO",Bethel TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 
+#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://tvone.pe/tvone.png" group-title="Musica",TV ONE HD
+https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/29/03/1738096310625/1853316008ae_480_270.png" group-title="Musica",N CANAL HD
+https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://i.imgur.com/jCAmrwt.png" group-title="Musica",CreoTV (Cajamarca)
+https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SANTAROSATV.pe" tvg-logo="https://radiosantarosa.com.pe/wp-content/uploads/2022/11/rsr_logo-1.jpg" group-title="MUSICA",Santa Rosa
+https://live-evg25.tv360.bitel.com.pe/bitel/santarosa/chunks.m3u8
+
+#EXTINF:-1 tvg-id="USILTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_480_270.png" group-title="General",TV NORTE
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/20/03/1724098142168/76e0e78082aa_480_270.jpg" group-title="MUSICA",Folklore TV
+https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_source/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://liketv.pe/wp-content/uploads/2024/12/Logo-con-Circulo-Naranja-Like-Tv.png" group-title="MUSICA",LIKE TV
+https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png" group-title="Musica",PIURA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/piuratv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/20/22/1740065337888/40da0f082d58_480_270.png" group-title="Musica",ANDINA TV (AYACUCHO)
+https://live-evg25.tv360.bitel.com.pe/bitel/andinatv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_480_270.png" group-title="General",Milenial TV
+https://live-evg25.tv360.bitel.com.pe/bitel/milenial/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829622590/e721b791ce56_480_270.png" group-title="General",INKA VISION
+https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/12/23/1739377906627/c42db8bb14de_480_270.png" group-title="General",ANDINO TV (HUARAZ)
+https://live-evg25.tv360.bitel.com.pe/bitel/andinotv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/02/11/02/1739217436655/fa393d3df009_480_270.png" group-title="General",HOY PERU TV (CAJAMARCA)
+https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735828211471/67c4d4fd8b8e_480_270.png" group-title="General",MEGA TV (PASCO)
+https://live-evg25.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV
+https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
+
+
+
 
 
 
