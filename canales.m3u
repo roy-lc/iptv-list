@@ -144,6 +144,29 @@ https://live-evg25.tv360.bitel.com.pe/bitel/megatv/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV
 https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/chunks.m3u8
 
+#EXTINF:0, Canal IPe (1080p)
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
+https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8
+
+#EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="VARIADO",Auténtica Televisión (720p)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="General",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Undefined",AsiriTV (Lima) (720p)
+https://video2.lhdserver.es/asiritv/live.m3u8
+
+#EXTINF:-1 tvg-id="viaaltomayotv.com" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="General",VIA Alto Mayo (HD)
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (SD)
+https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+
+
+
 
 
 
