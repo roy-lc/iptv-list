@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="AgroTV" tvg-logo="https://i.imgur.com/ZbeefkQ.png" group-title="Undefined",Agro TV (Apurimac)
-https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 
 #EXTINF:-1 tvg-id="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Latina_Television_-_Logotipo.png/125px-Latina_Television_-_Logotipo.png" group-title="General",Latina
 https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunks.m3u8
@@ -7,5 +5,5 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latina/bitel/latina_ori_source/chunk
 #EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="radiokaribena.pe/videoskaribenatv/" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Musica",Karibeña HD
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
+#EXTINF:-1 tvg-id="americatv.com.pe" tvg-logo="https://i.imgur.com/5j8Jupeb.jpg" group-title="General",America TV
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
