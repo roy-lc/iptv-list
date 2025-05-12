@@ -165,6 +165,23 @@ https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 (Catacaos) (SD)
 https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="Undefined",Conecta2 TV (Lima) (720p) 
+https://servilive.com:3114/live/liveulive.m3u8
+
+#EXTINF:-1 tvg-id="ControversiaTV.pe" tvg-logo="https://i.imgur.com/X7cPyP2.png" group-title="Undefined",Controversia TV (Moyobamba) (720p)
+https://live.obslivestream.com/controversiatv/index.m3u8
+
+#EXTINF:-1 tvg-id="CRTelevision.pe" tvg-logo="https://i.imgur.com/oxycMeA.png" group-title="General",CR Television (Moyobamba) (720p)
+https://live.obslivestream.com/crtvmux/index.m3u8
+
+#EXTINF:-1 tvg-id="DMJ.pe" tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="General",DMJ (Cuzco) (720p)
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/chunklist_w1177220520.m3u8
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (576p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+
+
 
 
 
