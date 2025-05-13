@@ -246,7 +246,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 
 
 #EXTINF:-1 tvg-id="mi-canal" tvg-name="Mi Canal RTMP" group-title="Locales",Mi Canal RTMP
-rtmp://TU_IP_O_DOMINIO/live/stream
+rtmp://localhost/live/stream
 
 
 
