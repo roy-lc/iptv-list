@@ -298,6 +298,12 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnionTV.py" tvg-logo="https://i.imgur.com/No9YzNC.png" group-title="General",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UniversTV.es" tvg-logo="https://i.imgur.com/EW2bfix.png" group-title="Entertainment",Univers TV (720p)
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VisionSur.pe" tvg-logo="https://i.imgur.com/AbZYWEQ.png" group-title="General",Visión Sur TV (1080p) [Not 24/7]
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+
 
 
 
