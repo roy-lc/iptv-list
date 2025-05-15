@@ -81,8 +81,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ctv/bitel/ctv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735827865864/904bb001a557_640_360.png" group-title="DOCUMENTAL",SUMAC TV
 https://live-evg25.tv360.bitel.com.pe/bitel/sumactv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://i.imgur.com/7Xndgxk.png" group-title="DEPORTE",Ovacion TV
-https://live-evg25.tv360.bitel.com.pe/bitel/ovacion/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="BETHEL.pe" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="RELIGIOSO",Bethel TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
@@ -105,7 +104,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/20/03/1724098142168/76e0e78082aa_480_270.jpg" group-title="MUSICA",Folklore TV
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://liketv.pe/wp-content/uploads/2024/12/Logo-con-Circulo-Naranja-Like-Tv.png" group-title="MUSICA",LIKE TV
+#EXTINF:-1 tvg-id="https://drive.google.com/file/d/1yOS5KcVSBD_9y-Ug9GftzQcrUeKbz_D_/view?usp=drivesdk" group-title="MUSICA",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png" group-title="Musica",PIURA TV
