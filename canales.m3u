@@ -104,7 +104,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 #EXTINF:-1 tvg-id="OvacionTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/20/03/1724098142168/76e0e78082aa_480_270.jpg" group-title="MUSICA",Folklore TV
 https://live-evg25.tv360.bitel.com.pe/bitel/folkloretv/bitel/folkloretv_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="https://drive.google.com/file/d/1yOS5KcVSBD_9y-Ug9GftzQcrUeKbz_D_/view?usp=drivesdk" group-title="MUSICA",LIKE TV
+#EXTINF:-1 tvg-id="https://drive.google.com/uc?export=download&id=1yOS5KcVSBD_9y-Ug9GftzQcrUeKbz_D_" group-title="MUSICA",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="CreoTV.pe" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/10/05/1736463477345/2f62f4fa02fd_480_270.png" group-title="Musica",PIURA TV
