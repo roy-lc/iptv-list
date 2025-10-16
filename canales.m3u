@@ -1,18 +1,8 @@
 #EXTM3U
 
-########## 🇵🇪 PERÚ ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TV_Peru_logo.png" group-title="Perú", TV Perú
-https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="General",ATV (720p) [Not 24/7]
+https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATVSur.pe@SD" tvg-logo="https://i.imgur.com/LnyVa5H.png" group-title="General",ATV Sur (720p) [Not 24/7]
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="ATVPlus.pe@SD" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="News",ATV+
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Congreso_TV_Peru_logo.png" group-title="Perú", Congreso TV
-https://cdnh4.iblups.com/hls/J0LCeS3OqT.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.justiciatv.gob.pe/sites/default/files/inline-images/logo_justicia_tv.png" group-title="Perú", Justicia TV
-https://cdnh4.iblups.com/hls/EJ7A6E1bHB.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/TV_SENADO_LOGO.png" group-title="Perú", TV Senado
-https://cdnh4.iblups.com/hls/BdJBWcMbUJ.m3u8
-
-########## 🌎 INTERNACIONALES ##########
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo_2022.svg" group-title="Noticias", DW Español
-https://dwamdstream102
