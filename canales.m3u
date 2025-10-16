@@ -10,6 +10,8 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 ########## AMERICA ##########
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
+
+########## AUTENTICA ##########
 #EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png", Autentica TV | PE
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 
@@ -42,6 +44,41 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 ########## NATIVA ##########
 #EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+########## 🇵🇪 CANALES PERUANOS GRATUITOS ##########
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TV_Peru_logo.png" group-title="Perú", TV Perú
+https://cdnh4.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Congreso_TV_Peru_logo.png" group-title="Perú", Congreso TV
+https://cdnh4.iblups.com/hls/J0LCeS3OqT.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.justiciatv.gob.pe/sites/default/files/inline-images/logo_justicia_tv.png" group-title="Perú", Justicia TV
+https://cdnh4.iblups.com/hls/EJ7A6E1bHB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/TVPeru_Noticias_logo.png" group-title="Perú", TV Perú Noticias
+https://cdnh4.iblups.com/hls/9tbyP94EKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/TV_Educativa_Per%C3%BA_logo.png" group-title="Perú", TV Perú Educación
+https://cdnh4.iblups.com/hls/uc2yHncrKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/USMP_TV_logo.png" group-title="Perú", USMP TV
+https://d1f3qz4p8kplaa.cloudfront.net/USMPTV/ngrp:USMPTV_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal_B_logo.png" group-title="Perú", Canal B
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@762933/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/UCI_TV_Peru_logo.png" group-title="Perú", UCI Noticias
+https://mediastreamm.com:1936/ucitv/ucitv/playlist.m3u8
+
+########## 🌎 EXTRA: CANALES LATINOS GRATUITOS ##########
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/France_24_logo.svg" group-title="Noticias", France 24 Español
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo_2022.svg" group-title="Noticias", DW Español
+https://dwamdstream102.akamaized.net/hls/live/2015530/dwstream102/index.m3u8
+
 
 
 
