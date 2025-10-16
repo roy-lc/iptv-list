@@ -45,6 +45,10 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/movielogos/Animal_Crossing_Fink_Heavy.png",Animal Crossing La pelicula
+http://ia802200.us.archive.org/26/items/Peliculas-wii/Animal%20Crossing%20La%20pelicula.mp4
+
+
 
 
 
