@@ -10,6 +10,8 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 ########## AMERICA ##########
 #EXTINF:-1 tvg-id="AmericaTelevision.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="General",America Television (1080p)
 http://38.183.182.166:8000/play/a0rb/index.m3u8
+#EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png", Autentica TV | PE
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 
 ########## ANGIENET ##########
 #EXTINF:-1 tvg-id="AngienetTV.pe@SD" tvg-logo="https://i.imgur.com/GCCriH4.png" group-title="Music",Angienet TV
@@ -40,6 +42,7 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 ########## NATIVA ##########
 #EXTINF:-1 tvg-id="Nativa.pe@SD" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="General",Nativa (720p) [Not 24/7]
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
 
 
 
