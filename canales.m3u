@@ -22,6 +22,14 @@ https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m
 #EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="General",Global TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 
+########## EXITOSA ##########
+#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+
+########## RPP ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP TV (1080p)
+https://cdn-ssai.smartbit.co/rpp/index.m3u8
+
 
 ########## AUTENTICA ##########
 #EXTINF:-1 tvg-id="1089" tvg-name="Autentica TV" tvg-logo="https://cdn.m3u.cl/logo/1089_Autentica_TV.png", Autentica TV | PE
@@ -35,9 +43,7 @@ https://servilive.com:3624/stream/play.m3u8
 #EXTINF:-1 tvg-id="Conecta2TV.pe@SD" tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="News",Conecta2TV (720p) [Not 24/7]
 https://live.obslivestream.com/conecta2/index.m3u8
 
-########## EXITOSA ##########
-#EXTINF:-1 tvg-id="ExitosaTV.pe@SD" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="News",Exitosa (720p)
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
+
 
 ########## GLOBAL ##########
 #EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="General",Global TV
@@ -148,8 +154,7 @@ https://live.obslivestream.com/conecta2/index.m3u8
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A8TRPrF.png" group-title="News",Red de Comunicación Regional (RCR) (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP TV (1080p)
-https://cdn-ssai.smartbit.co/rpp/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DAK5ZnD.png" group-title="News",RSelvaTV (720p)
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="News",TV Peru Noticias (360p)
