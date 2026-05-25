@@ -49,6 +49,59 @@ https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bkpCGP6.png" group-title="Entertainment",Impacto Televisión (360p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 
+########## LA TELE 2 ##########
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Entertainment",La Tele
+https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8
+
+########## ANTENA SUR ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4aHrD2l.jpeg" group-title="General",Antena SUR (720p)
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+
+
+########## CATACAOS ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O5MrFjY.png" group-title="General",Canal 8 Catacaos (720p) [Not 24/7]
+https://live.obslivestream.com/canal8/index.m3u8
+
+########## CANAL 21 HUANCAYO ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kfdkm06.png" group-title="General",Canal 21 Huancayo (720p)
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+
+########## ECO TV ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ly1KU6w.png" group-title="General",ECO Television
+https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
+
+########## INTUITIVA ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zcehR4M.png" group-title="General",Intuitiva TV (720p)
+https://video2.lhdserver.es/cableperu/live.m3u8
+
+########## LATINA 2 ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="General",Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+########## MEGA TV JAEN ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="General",Mega TV Jaen (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+########## MILENIAL TV ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ZiNoEa.png" group-title="General",Milenial TV
+https://www.milenial.news/salida/milenial.m3u8
+
+########## NATIVA SATIPO ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ScCAgGB.png" group-title="General",Nativa TV Satipo (720p) [Not 24/7]
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+
+########## ONDA DIGITAL ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="General",ONDA DIGITAL (720p)
+https://tv.ondadigital.pe/ondadigital/index.m3u8
+
+########## COSMOS ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="General",TV Cosmos (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
+########## UNITEL ##########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="General",Unitel (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+
 
 
 
